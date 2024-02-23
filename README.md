@@ -19,9 +19,12 @@ Stay Updated: Check your to-do list regularly to stay on top of your tasks and m
 
 Technologies Used
 Frontend: HTML, CSS, JavaScript
+
+
 #E-Commerce Website Tipsy-Topsy
+
 Overview
-Welcome to our E-Commerce website! This platform offers a user-friendly interface for seamless online shopping. With a secure checkout process, order tracking, and product reviews, we aim to enhance your shopping experience.
+Welcome to our E-Commerce website! This platform offers a user-friendly interface for seamless online shopping. With a secure checkout process and product reviews, we aim to enhance your shopping experience.
 
 Features
 Product Catalog: Explore a diverse range of products.
@@ -30,14 +33,9 @@ User Accounts: Manage orders, track shipments, and save favorites.
 
 Shopping Cart: Easily add, remove, and review items.
 
-Secure Checkout: Safely enter shipping and payment details.
-
-Order Tracking: Receive real-time updates on shipment status.
-
 Product Reviews: Share and read user experiences.
 
 Getting Started
-Create an Account: Unlock features with a personal account.
 
 Browse Products: Explore detailed product information.
 
